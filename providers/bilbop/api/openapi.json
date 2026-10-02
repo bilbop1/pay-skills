@@ -534,7 +534,7 @@
     "/brand-feedback": {
       "post": {
         "operationId": "brandFeedback",
-        "summary": "Request real human feedback about a brand or product",
+        "summary": "Fetch real human feedback about a brand or product",
         "description": "Routes a short question about a brand or product to real human respondents via the WURK human-task marketplace and returns their replies with a sentiment aggregate. Replies can take minutes. 0.50 USDC per call.",
         "tags": [
           "Humans"
